@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+pandas
+plotly
+PyPDF2
+langchain
